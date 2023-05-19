@@ -3,7 +3,9 @@ let num1 = prompt("Enter a number one");
 let num2 = prompt("Enter a number two");
  if(num1==num2)
  {
-	 alert("true")
+	 console.log("true");
+	 alert("true");
  }else{
-	 alert("false")
+	 console.log("false");
+	 alert("false");
  }
