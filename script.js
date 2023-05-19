@@ -4,4 +4,6 @@ let num2 = prompt("Enter a number two");
  if(num1==num2)
  {
 	 alert("true")
+ }else{
+	 alert("false")
  }
